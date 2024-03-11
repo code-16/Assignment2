@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+    margin-top: 48px;
+}
+.p {
+    width: 400px;
+    height: 40px;
+    overflow-y: auto;
+}
+.ele {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 80%;
+    top: 15%;
+}
